@@ -1,0 +1,209 @@
+GCF_001188985.1
+GCF_001433755.1
+GCF_900092635.1
+GCF_002211885.1
+GCF_002850015.1
+GCF_002751855.1
+GCF_002993435.1
+GCF_002993425.1
+GCF_002993485.1
+GCF_002993395.1
+GCF_002993385.1
+GCF_002993465.1
+GCF_003627375.1
+GCF_003627295.1
+GCF_003702635.1
+GCF_003702625.1
+GCF_003702605.1
+GCF_003702665.1
+GCF_003702565.1
+GCF_003641185.1
+GCF_004354685.1
+GCF_009812415.1
+GCF_007991835.1
+GCF_009295675.1
+GCA_013394345.1
+GCF_016804305.1
+GCF_018991465.1
+GCF_018993585.1
+GCF_018993985.1
+GCF_018991345.1
+GCF_018991365.1
+GCF_018993275.1
+GCF_018069575.1
+GCF_018403455.1
+GCF_018993635.1
+GCF_018993725.1
+GCF_018993445.1
+GCF_018993485.1
+GCF_018982875.1
+GCF_018993525.1
+GCF_018991185.1
+GCF_018991425.1
+GCF_018993965.1
+GCF_018993345.1
+GCF_018991355.1
+GCF_018991375.1
+GCF_018991565.1
+GCF_018991535.1
+GCF_018993495.1
+GCF_018991255.1
+GCF_018993665.1
+GCF_017742275.1
+GCF_018993625.1
+GCF_018991285.1
+GCF_018993945.1
+GCA_905199535.1
+[04/08 15:14:45] INFO: welcome to SCARAP
+[04/08 15:14:45] INFO: creating output folder and log file
+[04/08 15:14:45] INFO: output folder '../results/pan' created
+[04/08 15:14:45] INFO: log file created!
+[04/08 15:14:45] INFO: welcome to the pan task
+[04/08 15:14:45] INFO: checking arguments other than output folder
+[04/08 15:14:45] INFO: checking dependencies
+[04/08 15:14:45] INFO: detected MMseqs2 version 45111 (release 13)
+[04/08 15:14:45] INFO: detected MAFFT v7.505
+[04/08 15:14:45] INFO: pangenome will be constructed with the FH strategy
+[04/08 15:14:45] INFO: 56 genomes were supplied
+[04/08 15:14:45] INFO: constructing gene table
+/mnt/c-wdc-wd1003fzex_0-hdd/tools/SCARAP/src/scarap/readerswriters.py:107: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  genes = genes.append(genes_genome)
+/mnt/c-wdc-wd1003fzex_0-hdd/tools/SCARAP/src/scarap/readerswriters.py:107: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  genes = genes.append(genes_genome)
+/mnt/c-wdc-wd1003fzex_0-hdd/tools/SCARAP/src/scarap/readerswriters.py:107: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  genes = genes.append(genes_genome)
+/mnt/c-wdc-wd1003fzex_0-hdd/tools/SCARAP/src/scarap/readerswriters.py:107: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  genes = genes.append(genes_genome)
+/mnt/c-wdc-wd1003fzex_0-hdd/tools/SCARAP/src/scarap/readerswriters.py:107: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  genes = genes.append(genes_genome)
+/mnt/c-wdc-wd1003fzex_0-hdd/tools/SCARAP/src/scarap/readerswriters.py:107: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  genes = genes.append(genes_genome)
+/mnt/c-wdc-wd1003fzex_0-hdd/tools/SCARAP/src/scarap/readerswriters.py:107: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  genes = genes.append(genes_genome)
+/mnt/c-wdc-wd1003fzex_0-hdd/tools/SCARAP/src/scarap/readerswriters.py:107: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  genes = genes.append(genes_genome)
+/mnt/c-wdc-wd1003fzex_0-hdd/tools/SCARAP/src/scarap/readerswriters.py:107: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  genes = genes.append(genes_genome)
+/mnt/c-wdc-wd1003fzex_0-hdd/tools/SCARAP/src/scarap/readerswriters.py:107: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  genes = genes.append(genes_genome)
+/mnt/c-wdc-wd1003fzex_0-hdd/tools/SCARAP/src/scarap/readerswriters.py:107: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  genes = genes.append(genes_genome)
+/mnt/c-wdc-wd1003fzex_0-hdd/tools/SCARAP/src/scarap/readerswriters.py:107: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  genes = genes.append(genes_genome)
+/mnt/c-wdc-wd1003fzex_0-hdd/tools/SCARAP/src/scarap/readerswriters.py:107: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  genes = genes.append(genes_genome)
+/mnt/c-wdc-wd1003fzex_0-hdd/tools/SCARAP/src/scarap/readerswriters.py:107: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  genes = genes.append(genes_genome)
+/mnt/c-wdc-wd1003fzex_0-hdd/tools/SCARAP/src/scarap/readerswriters.py:107: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  genes = genes.append(genes_genome)
+/mnt/c-wdc-wd1003fzex_0-hdd/tools/SCARAP/src/scarap/readerswriters.py:107: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  genes = genes.append(genes_genome)
+/mnt/c-wdc-wd1003fzex_0-hdd/tools/SCARAP/src/scarap/readerswriters.py:107: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  genes = genes.append(genes_genome)
+/mnt/c-wdc-wd1003fzex_0-hdd/tools/SCARAP/src/scarap/readerswriters.py:107: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  genes = genes.append(genes_genome)
+/mnt/c-wdc-wd1003fzex_0-hdd/tools/SCARAP/src/scarap/readerswriters.py:107: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  genes = genes.append(genes_genome)
+/mnt/c-wdc-wd1003fzex_0-hdd/tools/SCARAP/src/scarap/readerswriters.py:107: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  genes = genes.append(genes_genome)
+/mnt/c-wdc-wd1003fzex_0-hdd/tools/SCARAP/src/scarap/readerswriters.py:107: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  genes = genes.append(genes_genome)
+/mnt/c-wdc-wd1003fzex_0-hdd/tools/SCARAP/src/scarap/readerswriters.py:107: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  genes = genes.append(genes_genome)
+/mnt/c-wdc-wd1003fzex_0-hdd/tools/SCARAP/src/scarap/readerswriters.py:107: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  genes = genes.append(genes_genome)
+/mnt/c-wdc-wd1003fzex_0-hdd/tools/SCARAP/src/scarap/readerswriters.py:107: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  genes = genes.append(genes_genome)
+/mnt/c-wdc-wd1003fzex_0-hdd/tools/SCARAP/src/scarap/readerswriters.py:107: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  genes = genes.append(genes_genome)
+/mnt/c-wdc-wd1003fzex_0-hdd/tools/SCARAP/src/scarap/readerswriters.py:107: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  genes = genes.append(genes_genome)
+/mnt/c-wdc-wd1003fzex_0-hdd/tools/SCARAP/src/scarap/readerswriters.py:107: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  genes = genes.append(genes_genome)
+/mnt/c-wdc-wd1003fzex_0-hdd/tools/SCARAP/src/scarap/readerswriters.py:107: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  genes = genes.append(genes_genome)
+/mnt/c-wdc-wd1003fzex_0-hdd/tools/SCARAP/src/scarap/readerswriters.py:107: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  genes = genes.append(genes_genome)
+/mnt/c-wdc-wd1003fzex_0-hdd/tools/SCARAP/src/scarap/readerswriters.py:107: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  genes = genes.append(genes_genome)
+/mnt/c-wdc-wd1003fzex_0-hdd/tools/SCARAP/src/scarap/readerswriters.py:107: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  genes = genes.append(genes_genome)
+/mnt/c-wdc-wd1003fzex_0-hdd/tools/SCARAP/src/scarap/readerswriters.py:107: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  genes = genes.append(genes_genome)
+/mnt/c-wdc-wd1003fzex_0-hdd/tools/SCARAP/src/scarap/readerswriters.py:107: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  genes = genes.append(genes_genome)
+/mnt/c-wdc-wd1003fzex_0-hdd/tools/SCARAP/src/scarap/readerswriters.py:107: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  genes = genes.append(genes_genome)
+/mnt/c-wdc-wd1003fzex_0-hdd/tools/SCARAP/src/scarap/readerswriters.py:107: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  genes = genes.append(genes_genome)
+/mnt/c-wdc-wd1003fzex_0-hdd/tools/SCARAP/src/scarap/readerswriters.py:107: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  genes = genes.append(genes_genome)
+/mnt/c-wdc-wd1003fzex_0-hdd/tools/SCARAP/src/scarap/readerswriters.py:107: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  genes = genes.append(genes_genome)
+/mnt/c-wdc-wd1003fzex_0-hdd/tools/SCARAP/src/scarap/readerswriters.py:107: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  genes = genes.append(genes_genome)
+/mnt/c-wdc-wd1003fzex_0-hdd/tools/SCARAP/src/scarap/readerswriters.py:107: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  genes = genes.append(genes_genome)
+/mnt/c-wdc-wd1003fzex_0-hdd/tools/SCARAP/src/scarap/readerswriters.py:107: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  genes = genes.append(genes_genome)
+/mnt/c-wdc-wd1003fzex_0-hdd/tools/SCARAP/src/scarap/readerswriters.py:107: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  genes = genes.append(genes_genome)
+/mnt/c-wdc-wd1003fzex_0-hdd/tools/SCARAP/src/scarap/readerswriters.py:107: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  genes = genes.append(genes_genome)
+/mnt/c-wdc-wd1003fzex_0-hdd/tools/SCARAP/src/scarap/readerswriters.py:107: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  genes = genes.append(genes_genome)
+/mnt/c-wdc-wd1003fzex_0-hdd/tools/SCARAP/src/scarap/readerswriters.py:107: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  genes = genes.append(genes_genome)
+/mnt/c-wdc-wd1003fzex_0-hdd/tools/SCARAP/src/scarap/readerswriters.py:107: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  genes = genes.append(genes_genome)
+/mnt/c-wdc-wd1003fzex_0-hdd/tools/SCARAP/src/scarap/readerswriters.py:107: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  genes = genes.append(genes_genome)
+/mnt/c-wdc-wd1003fzex_0-hdd/tools/SCARAP/src/scarap/readerswriters.py:107: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  genes = genes.append(genes_genome)
+/mnt/c-wdc-wd1003fzex_0-hdd/tools/SCARAP/src/scarap/readerswriters.py:107: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  genes = genes.append(genes_genome)
+/mnt/c-wdc-wd1003fzex_0-hdd/tools/SCARAP/src/scarap/readerswriters.py:107: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  genes = genes.append(genes_genome)
+/mnt/c-wdc-wd1003fzex_0-hdd/tools/SCARAP/src/scarap/readerswriters.py:107: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  genes = genes.append(genes_genome)
+/mnt/c-wdc-wd1003fzex_0-hdd/tools/SCARAP/src/scarap/readerswriters.py:107: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  genes = genes.append(genes_genome)
+/mnt/c-wdc-wd1003fzex_0-hdd/tools/SCARAP/src/scarap/readerswriters.py:107: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  genes = genes.append(genes_genome)
+/mnt/c-wdc-wd1003fzex_0-hdd/tools/SCARAP/src/scarap/readerswriters.py:107: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  genes = genes.append(genes_genome)
+/mnt/c-wdc-wd1003fzex_0-hdd/tools/SCARAP/src/scarap/readerswriters.py:107: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  genes = genes.append(genes_genome)
+/mnt/c-wdc-wd1003fzex_0-hdd/tools/SCARAP/src/scarap/readerswriters.py:107: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  genes = genes.append(genes_genome)
+/mnt/c-wdc-wd1003fzex_0-hdd/tools/SCARAP/src/scarap/readerswriters.py:107: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  genes = genes.append(genes_genome)
+[04/08 15:14:45] INFO: checking if gene names are unique
+[04/08 15:14:45] INFO: STAGE 1: creation of superfamilies
+[04/08 15:14:45] INFO: creating subfolders for superfamily inference steps
+[04/08 15:14:45] INFO: creating mmseqs sequence database
+[04/08 15:14:46] INFO: creating preclusters
+[04/08 15:14:50] INFO: clustering the preclusters using profiles
+[04/08 15:14:54] INFO: compiling pangenome file with superfamilies
+[04/08 15:14:55] INFO: STAGE 2: splitting of superfamilies
+[04/08 15:14:55] INFO: gathering sequences of superfamilies
+[04/08 15:15:00] INFO: counting splitable superfamilies
+[04/08 15:15:00] INFO: found 1285 splitable superfamilies
+[04/08 15:15:00] INFO: splitting superfamilies
+
+This is SCARAP version 0.4.0
+
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||[04/08 15:17:40] INFO: assigning names to the gene families
+[04/08 15:17:40] INFO: writing pangenome file
+[04/08 15:17:40] INFO: removing temporary folders
+[04/08 15:17:40] INFO: SCARAP out
+
+── Attaching packages ─────────────────────────────────────── tidyverse 1.3.2 ──
+✔ ggplot2 3.3.6     ✔ purrr   0.3.4
+✔ tibble  3.1.7     ✔ dplyr   1.0.9
+✔ tidyr   1.2.0     ✔ stringr 1.4.0
+✔ readr   2.1.2     ✔ forcats 0.5.1
+── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+✖ dplyr::filter() masks stats::filter()
+✖ dplyr::lag()    masks stats::lag()
+[1] "table written on location: ../results/uniquegenes.tsv"
