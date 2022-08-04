@@ -1,5 +1,5 @@
 # strain-specific-primers
-##Pipeline to make strain specific primers for your strain of interest
+## Pipeline to make strain specific primers for your strain of interest
 If you intend to add your own strains together with the downloaded ones, add 
 your samples in the correct folder before step 2.
 
