@@ -17,12 +17,12 @@ Prodigal V2.6.3: https://github.com/hyattpd/Prodigal
 Rpackage: tidyverse 1.3.1 https://www.tidyverse.org/
 
 ## 01_download_fnas.sh
-Download the tsv of the gtdb with your specific species/genus, this tsv is the 
+Download the tsv of the gtdb (https://gtdb.ecogenomic.org/) with your specific species/genus (select GTDB taxonomy field and use the s__ or the g__-prefix), this tsv is the 
 input for the first script
 
 Script copied from 
 https://github.com/SWittouck/proclasp/tree/master/scripts/download_fnas.sh with
-permission. This script will allow to download all genomes based on the gtdb
+permission. This script will download all genomes based on your gtdblist.tsv
 
 01_download_fnas.sh gtdb.tsv outputfolder
 
@@ -40,7 +40,7 @@ from previous step
 ## 04_uniquegenes.R
 Script to select unique genes from the pangenome. Here, you need input from
 previous folder (pangenome.tsv), your GCA identifier from GTDB (or another
-unique identifier if you would use on your own non published genomes), and
+unique identifier if you would use on your own non-published genomes), and
 optionally an outputfile, standard it will be saved in ../results/uniquegenes.tsv
 
 04_uniquegenes pangenomes.tsv_in_folder_previous_step GCA_unique_identifier
